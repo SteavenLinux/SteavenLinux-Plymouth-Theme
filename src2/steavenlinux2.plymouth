@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=SteavenLinux Image Boot Screen
+Description=Boot screen to simulate Windows 95 boot animation
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/steavenlinux2
+ScriptFile=/usr/share/plymouth/themes/steavenlinux2/steavenlinux2.script
